@@ -15,6 +15,10 @@ For example:
 
  The theme works well in all versions:
 	
+	I have Used Liferay Developer Studio Version: 2.0.0.201407010614-ga1
+	
+	I haven't used eclipse for this project
+	
 	liferay-ide-eclipse-windows-x64-2.0.0-ga1-201312200205
 
 	liferay-plugins-sdk-6.2.0-ce-ga1-20131101192857659
